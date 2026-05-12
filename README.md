@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+git clone https://github.com/RohanRajput987/Credit-Card-Fraud-Detection.git
 ```
 
 ### Navigate to Project Directory
